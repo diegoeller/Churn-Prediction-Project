@@ -14,8 +14,8 @@ The primary goal of this project was to explore the factors that contribute to c
 
 ## Files
 
-* `Telco Customer Churn.ipynb`:  The Jupyter Notebook containing the complete analysis, including data loading, cleaning, exploration, and [if applicable] modeling.
-* `WA_Fn-UseC_-Telco-Customer-Churn.csv`: The dataset used for the analysis (if you include it directly in the repo).
+* `Telco Customer Churn.ipynb`:  The Jupyter Notebook containing the complete analysis, including data loading, cleaning, exploration, and modeling.
+* `WA_Fn-UseC_-Telco-Customer-Churn.csv`: The dataset used for the analysis.
 
 ## Libraries Used
 
@@ -34,11 +34,11 @@ Through this project, I gained practical experience in:
 * Handling missing values, specifically in the `TotalCharges` column.
 * Converting data types for analysis (e.g., converting `TotalCharges` to numeric).
 * Exploring the dataset to understand distributions and relationships between variables.
-* Preparing data for modeling (e.g., label encoding, feature scaling).  *(If you performed modeling)*
-* Implementing and evaluating basic classification models to predict churn. *(If you performed modeling)*
-* Using SHAP values for understanding model predictions *(If you used SHAP)*
+* Preparing data for modeling (e.g., label encoding, feature scaling).
+* Implementing and evaluating basic classification models to predict churn.
+* Using SHAP values for understanding model predictions.
 
-## Next Steps (Optional)
+## Next Steps
 
 * Investigate more advanced machine learning models for improved churn prediction.
 * Perform feature engineering to create new variables that might better predict churn.
